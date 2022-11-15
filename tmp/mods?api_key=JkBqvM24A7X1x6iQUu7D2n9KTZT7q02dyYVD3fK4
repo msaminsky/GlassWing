@@ -1,0 +1,3555 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee1b2352039">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+  <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+  <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>CCAL</collectionCode>
+ <category>Proceedings of Congress and General Congressional Publications</category>
+ <waisDatabaseName>117_senate_calendar</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2021-12-10</dateIngested>
+</extension>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2021-12-13</dateIssued>
+ <issuance>continuing</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>40 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.3/3:</classification>
+<identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13</identifier>
+<identifier type="local">P0b002ee1b2352039</identifier>
+<identifier type="issn">0364-0558</identifier>
+<identifier type="ILS system id">000323974</identifier>
+<identifier type="former package identifier">sc001</identifier>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2021-12-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2021-12-10</recordChangeDate>
+ <recordIdentifier source="DGPO">CCAL-117scal-2021-12-13</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+ <docClass>SCAL</docClass>
+ <accessId>CCAL-117scal-2021-12-13</accessId>
+ <chamber>SENATE</chamber>
+ <congress>117</congress>
+ <session>1</session>
+ <edition>DAILY</edition>
+</extension>
+<titleInfo>
+ <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+</titleInfo>
+<location>
+ <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13</url>
+ <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13.pdf</url>
+</location>
+<identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</identifier>
+<relatedItem type="constituent" ID="id-sc13de00" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt0/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>Cover and Special Orders</partName>
+  <partName>PENDING BUSINESS</partName>
+  <partName>UNANIMOUS CONSENT AGREEMENTS</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt0</identifier>
+ <identifier type="former granule identifier">sc001</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt0</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt0.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt0.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 0</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      Cover and Special Orders; PENDING BUSINESS; UNANIMOUS CONSENT AGREEMENTS</searchTitle>
+  <section>Cover and Special Orders</section>
+  <section>PENDING BUSINESS</section>
+  <section>UNANIMOUS CONSENT AGREEMENTS</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt0</accessId>
+  <partNumber>0</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+  <bill congress="117" number="4" type="S"></bill>
+  <bill congress="117" number="1605" type="S"></bill>
+  <bill congress="117" number="2747" type="S"></bill>
+  <bill congress="117" number="4350" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 4 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 4</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1605 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1605</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2747 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2747</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 4350 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 4350</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de01" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt1/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>Senate Membership, One Hundred Seventeenth Congress, First Session</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt1</identifier>
+ <identifier type="former granule identifier">sc002</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt1</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt1.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt1.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 1</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      Senate Membership, One Hundred Seventeenth Congress, First Session</searchTitle>
+  <section>Senate Membership, One Hundred Seventeenth Congress, First Session</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt1</accessId>
+  <partNumber>1</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de02" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt2/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>COMMITTEE ASSIGNMENTS</partName>
+  <partName>STANDING COMMITTEES</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt2</identifier>
+ <identifier type="former granule identifier">sc003</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt2.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 2</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      COMMITTEE ASSIGNMENTS; STANDING COMMITTEES</searchTitle>
+  <section>COMMITTEE ASSIGNMENTS</section>
+  <section>STANDING COMMITTEES</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt2</accessId>
+  <partNumber>2</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de03" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt3/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>OTHER, SELECT AND SPECIAL COMMITTEES</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt3</identifier>
+ <identifier type="former granule identifier">sc004</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt3.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 3</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      OTHER, SELECT AND SPECIAL COMMITTEES</searchTitle>
+  <section>OTHER, SELECT AND SPECIAL COMMITTEES</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt3</accessId>
+  <partNumber>3</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de04" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt4/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>JOINT COMMITTEES OF THE CONGRESS</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt4</identifier>
+ <identifier type="former granule identifier">sc005</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt4.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 4</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      JOINT COMMITTEES OF THE CONGRESS</searchTitle>
+  <section>JOINT COMMITTEES OF THE CONGRESS</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt4</accessId>
+  <partNumber>4</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de05" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt5/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>Cross Index of General Orders Measures With Corresponding Order Numbers</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt5</identifier>
+ <identifier type="former granule identifier">sc006</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt5.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 5</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      Cross Index of General Orders Measures With Corresponding Order Numbers</searchTitle>
+  <section>Cross Index of General Orders Measures With Corresponding Order Numbers</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt5</accessId>
+  <partNumber>5</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+  <bill congress="117" number="1" type="S"></bill>
+  <bill congress="117" number="4" type="S"></bill>
+  <bill congress="117" number="5" type="HR"></bill>
+  <bill congress="117" number="7" type="HR"></bill>
+  <bill congress="117" number="9" type="SJRES"></bill>
+  <bill congress="117" number="10" type="SJRES"></bill>
+  <bill congress="117" number="11" type="S"></bill>
+  <bill congress="117" number="11" type="HCONRES"></bill>
+  <bill congress="117" number="12" type="S"></bill>
+  <bill congress="117" number="13" type="S"></bill>
+  <bill congress="117" number="13" type="SCONRES"></bill>
+  <bill congress="117" number="14" type="S"></bill>
+  <bill congress="117" number="17" type="HJRES"></bill>
+  <bill congress="117" number="35" type="SRES"></bill>
+  <bill congress="117" number="44" type="SRES"></bill>
+  <bill congress="117" number="93" type="S"></bill>
+  <bill congress="117" number="99" type="SRES"></bill>
+  <bill congress="117" number="111" type="S"></bill>
+  <bill congress="117" number="122" type="SRES"></bill>
+  <bill congress="117" number="176" type="SRES"></bill>
+  <bill congress="117" number="189" type="HR"></bill>
+  <bill congress="117" number="241" type="HR"></bill>
+  <bill congress="117" number="312" type="S"></bill>
+  <bill congress="117" number="335" type="S"></bill>
+  <bill congress="117" number="345" type="SRES"></bill>
+  <bill congress="117" number="371" type="S"></bill>
+  <bill congress="117" number="421" type="S"></bill>
+  <bill congress="117" number="461" type="S"></bill>
+  <bill congress="117" number="478" type="HR"></bill>
+  <bill congress="117" number="517" type="S"></bill>
+  <bill congress="117" number="522" type="S"></bill>
+  <bill congress="117" number="601" type="S"></bill>
+  <bill congress="117" number="636" type="S"></bill>
+  <bill congress="117" number="671" type="S"></bill>
+  <bill congress="117" number="688" type="S"></bill>
+  <bill congress="117" number="704" type="HR"></bill>
+  <bill congress="117" number="814" type="S"></bill>
+  <bill congress="117" number="963" type="S"></bill>
+  <bill congress="117" number="965" type="HR"></bill>
+  <bill congress="117" number="989" type="S"></bill>
+  <bill congress="117" number="1014" type="S"></bill>
+  <bill congress="117" number="1061" type="S"></bill>
+  <bill congress="117" number="1097" type="S"></bill>
+  <bill congress="117" number="1104" type="S"></bill>
+  <bill congress="117" number="1169" type="S"></bill>
+  <bill congress="117" number="1216" type="S"></bill>
+  <bill congress="117" number="1275" type="S"></bill>
+  <bill congress="117" number="1402" type="S"></bill>
+  <bill congress="117" number="1425" type="S"></bill>
+  <bill congress="117" number="1428" type="S"></bill>
+  <bill congress="117" number="1471" type="S"></bill>
+  <bill congress="117" number="1486" type="S"></bill>
+  <bill congress="117" number="1491" type="S"></bill>
+  <bill congress="117" number="1543" type="S"></bill>
+  <bill congress="117" number="1657" type="S"></bill>
+  <bill congress="117" number="1658" type="S"></bill>
+  <bill congress="117" number="1675" type="S"></bill>
+  <bill congress="117" number="1775" type="S"></bill>
+  <bill congress="117" number="1927" type="S"></bill>
+  <bill congress="117" number="1931" type="S"></bill>
+  <bill congress="117" number="2000" type="S"></bill>
+  <bill congress="117" number="2044" type="HR"></bill>
+  <bill congress="117" number="2093" type="S"></bill>
+  <bill congress="117" number="2118" type="S"></bill>
+  <bill congress="117" number="2119" type="HR"></bill>
+  <bill congress="117" number="2129" type="S"></bill>
+  <bill congress="117" number="2201" type="S"></bill>
+  <bill congress="117" number="2297" type="S"></bill>
+  <bill congress="117" number="2311" type="S"></bill>
+  <bill congress="117" number="2342" type="S"></bill>
+  <bill congress="117" number="2377" type="S"></bill>
+  <bill congress="117" number="2401" type="S"></bill>
+  <bill congress="117" number="2425" type="S"></bill>
+  <bill congress="117" number="2428" type="S"></bill>
+  <bill congress="117" number="2429" type="S"></bill>
+  <bill congress="117" number="2520" type="S"></bill>
+  <bill congress="117" number="2551" type="S"></bill>
+  <bill congress="117" number="2599" type="S"></bill>
+  <bill congress="117" number="2604" type="S"></bill>
+  <bill congress="117" number="2605" type="S"></bill>
+  <bill congress="117" number="2610" type="S"></bill>
+  <bill congress="117" number="2670" type="S"></bill>
+  <bill congress="117" number="2671" type="S"></bill>
+  <bill congress="117" number="2747" type="S"></bill>
+  <bill congress="117" number="2765" type="S"></bill>
+  <bill congress="117" number="2788" type="S"></bill>
+  <bill congress="117" number="2789" type="S"></bill>
+  <bill congress="117" number="2792" type="S"></bill>
+  <bill congress="117" number="2809" type="S"></bill>
+  <bill congress="117" number="2868" type="S"></bill>
+  <bill congress="117" number="3003" type="S"></bill>
+  <bill congress="117" number="3005" type="S"></bill>
+  <bill congress="117" number="3006" type="S"></bill>
+  <bill congress="117" number="3007" type="S"></bill>
+  <bill congress="117" number="3008" type="S"></bill>
+  <bill congress="117" number="3009" type="S"></bill>
+  <bill congress="117" number="3010" type="S"></bill>
+  <bill congress="117" number="3110" type="HR"></bill>
+  <bill congress="117" number="3206" type="S"></bill>
+  <bill congress="117" number="3233" type="HR"></bill>
+  <bill congress="117" number="3299" type="S"></bill>
+  <bill congress="117" number="3419" type="HR"></bill>
+  <bill congress="117" number="3743" type="HR"></bill>
+  <bill congress="117" number="3755" type="HR"></bill>
+  <bill congress="117" number="4350" type="HR"></bill>
+  <bill congress="117" number="5323" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 4 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 4</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 5 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 5</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 7 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 7</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 9 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 9</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 10 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 10</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 11 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 11</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Concurrent Resolution 11 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Con. Res. 11</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 12 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 12</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 13 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 13</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Concurrent Resolution 13 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Con. Res. 13</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 14 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 14</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 17 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 17</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 35 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 35</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 44 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 44</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 93 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 93</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 99 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 99</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 111 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 111</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 122 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 122</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 176 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 176</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 189 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 189</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 241 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 241</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 312 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 312</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 335 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 335</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 345 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 345</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 371 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 371</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 421 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 421</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 461 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 461</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 478 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 478</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 517 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 517</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 522 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 522</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 601 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 601</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 636 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 636</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 671 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 671</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 688 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 688</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 704 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 704</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 814 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 814</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 963 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 963</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 965 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 965</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 989 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 989</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1014 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1014</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1061 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1061</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1097 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1097</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1104 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1104</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1169 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1169</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1216 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1216</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1275 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1275</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1402 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1402</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1425 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1425</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1428 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1428</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1471 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1471</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1486 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1486</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1491 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1491</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1543 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1543</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1657 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1657</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1658 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1658</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1675 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1675</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1775 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1775</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1927 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1927</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1931 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1931</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2000 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2000</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2044 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2044</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2093 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2093</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2118 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2118</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2119 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2119</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2129 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2129</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2201 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2201</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2297 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2297</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2311 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2311</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2342 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2342</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2377 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2377</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2401 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2401</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2425 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2425</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2428 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2428</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2429 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2429</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2520 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2520</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2551 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2551</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2599 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2599</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2604 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2604</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2605 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2605</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2610 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2610</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2670 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2670</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2671 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2671</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2747 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2747</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2765 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2765</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2788 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2788</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2789 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2789</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2792 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2792</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2809 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2809</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2868 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2868</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3003 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3003</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3005 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3005</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3006 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3006</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3007 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3007</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3008 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3008</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3009 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3009</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3010 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3010</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3110 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3110</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3206 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3206</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3233 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3233</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3299 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3299</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3419 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3419</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3743 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3743</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3755 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3755</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 4350 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 4350</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 5323 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 5323</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de06" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt6/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>GENERAL ORDERS</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt6</identifier>
+ <identifier type="former granule identifier">sc007</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt6</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt6.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt6.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 6</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      GENERAL ORDERS</searchTitle>
+  <section>GENERAL ORDERS</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt6</accessId>
+  <partNumber>6</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+  <congCalendar congress="117" number="1" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="2" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="3" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="5" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="7" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="8" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="9" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="12" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="15" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="19" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="22" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="26" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="27" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="29" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="30" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="44" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="45" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="46" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="47" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="49" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="51" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="54" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="56" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="59" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="60" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="62" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="64" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="65" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="68" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="70" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="71" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="77" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="78" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="79" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="82" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="88" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="89" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="90" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="94" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="95" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="96" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="97" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="98" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="99" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="102" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="103" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="104" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="106" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="108" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="109" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="112" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="113" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="114" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="115" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="116" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="117" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="118" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="119" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="120" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="121" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="123" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="125" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="126" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="127" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="128" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="129" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="134" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="135" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="136" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="138" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="139" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="140" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="141" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="142" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="143" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="144" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="145" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="146" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="147" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="148" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="149" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="150" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="151" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="152" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="153" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="155" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="156" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="157" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="158" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="159" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="161" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="162" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="163" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="164" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="165" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="166" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="167" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="168" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="169" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="174" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="175" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="176" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="177" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="179" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="180" type="SENATE"></congCalendar>
+  <congCalendar congress="117" number="181" type="SENATE"></congCalendar>
+  <bill congress="117" number="1" type="S"></bill>
+  <bill congress="117" number="4" type="S"></bill>
+  <bill congress="117" number="5" type="HR"></bill>
+  <bill congress="117" number="7" type="HR"></bill>
+  <bill congress="117" number="9" type="SJRES"></bill>
+  <bill congress="117" number="10" type="SJRES"></bill>
+  <bill congress="117" number="11" type="S"></bill>
+  <bill congress="117" number="12" type="S"></bill>
+  <bill congress="117" number="13" type="S"></bill>
+  <bill congress="117" number="14" type="S"></bill>
+  <bill congress="117" number="17" type="HJRES"></bill>
+  <bill congress="117" number="27" type="SRES"></bill>
+  <bill congress="117" number="35" type="SRES"></bill>
+  <bill congress="117" number="44" type="SRES"></bill>
+  <bill congress="117" number="93" type="S"></bill>
+  <bill congress="117" number="99" type="SRES"></bill>
+  <bill congress="117" number="111" type="S"></bill>
+  <bill congress="117" number="122" type="SRES"></bill>
+  <bill congress="117" number="176" type="SRES"></bill>
+  <bill congress="117" number="189" type="HR"></bill>
+  <bill congress="117" number="241" type="HR"></bill>
+  <bill congress="117" number="312" type="S"></bill>
+  <bill congress="117" number="335" type="S"></bill>
+  <bill congress="117" number="345" type="SRES"></bill>
+  <bill congress="117" number="371" type="S"></bill>
+  <bill congress="117" number="421" type="S"></bill>
+  <bill congress="117" number="461" type="S"></bill>
+  <bill congress="117" number="478" type="HR"></bill>
+  <bill congress="117" number="517" type="S"></bill>
+  <bill congress="117" number="522" type="S"></bill>
+  <bill congress="117" number="601" type="S"></bill>
+  <bill congress="117" number="636" type="S"></bill>
+  <bill congress="117" number="671" type="S"></bill>
+  <bill congress="117" number="688" type="S"></bill>
+  <bill congress="117" number="704" type="HR"></bill>
+  <bill congress="117" number="814" type="S"></bill>
+  <bill congress="117" number="963" type="S"></bill>
+  <bill congress="117" number="965" type="HR"></bill>
+  <bill congress="117" number="989" type="S"></bill>
+  <bill congress="117" number="1014" type="S"></bill>
+  <bill congress="117" number="1061" type="S"></bill>
+  <bill congress="117" number="1097" type="S"></bill>
+  <bill congress="117" number="1104" type="S"></bill>
+  <bill congress="117" number="1169" type="S"></bill>
+  <bill congress="117" number="1216" type="S"></bill>
+  <bill congress="117" number="1275" type="S"></bill>
+  <bill congress="117" number="1402" type="S"></bill>
+  <bill congress="117" number="1425" type="S"></bill>
+  <bill congress="117" number="1428" type="S"></bill>
+  <bill congress="117" number="1471" type="S"></bill>
+  <bill congress="117" number="1486" type="S"></bill>
+  <bill congress="117" number="1491" type="S"></bill>
+  <bill congress="117" number="1543" type="S"></bill>
+  <bill congress="117" number="1657" type="S"></bill>
+  <bill congress="117" number="1658" type="S"></bill>
+  <bill congress="117" number="1675" type="S"></bill>
+  <bill congress="117" number="1775" type="S"></bill>
+  <bill congress="117" number="1927" type="S"></bill>
+  <bill congress="117" number="1931" type="S"></bill>
+  <bill congress="117" number="2000" type="S"></bill>
+  <bill congress="117" number="2044" type="HR"></bill>
+  <bill congress="117" number="2093" type="S"></bill>
+  <bill congress="117" number="2118" type="S"></bill>
+  <bill congress="117" number="2119" type="HR"></bill>
+  <bill congress="117" number="2129" type="S"></bill>
+  <bill congress="117" number="2201" type="S"></bill>
+  <bill congress="117" number="2297" type="S"></bill>
+  <bill congress="117" number="2311" type="S"></bill>
+  <bill congress="117" number="2342" type="S"></bill>
+  <bill congress="117" number="2377" type="S"></bill>
+  <bill congress="117" number="2401" type="S"></bill>
+  <bill congress="117" number="2425" type="S"></bill>
+  <bill congress="117" number="2428" type="S"></bill>
+  <bill congress="117" number="2429" type="S"></bill>
+  <bill congress="117" number="2520" type="S"></bill>
+  <bill congress="117" number="2551" type="S"></bill>
+  <bill congress="117" number="2599" type="S"></bill>
+  <bill congress="117" number="2604" type="S"></bill>
+  <bill congress="117" number="2605" type="S"></bill>
+  <bill congress="117" number="2610" type="S"></bill>
+  <bill congress="117" number="2670" type="S"></bill>
+  <bill congress="117" number="2671" type="S"></bill>
+  <bill congress="117" number="2747" type="S"></bill>
+  <bill congress="117" number="2765" type="S"></bill>
+  <bill congress="117" number="2788" type="S"></bill>
+  <bill congress="117" number="2789" type="S"></bill>
+  <bill congress="117" number="2792" type="S"></bill>
+  <bill congress="117" number="2809" type="S"></bill>
+  <bill congress="117" number="2868" type="S"></bill>
+  <bill congress="117" number="3003" type="S"></bill>
+  <bill congress="117" number="3005" type="S"></bill>
+  <bill congress="117" number="3006" type="S"></bill>
+  <bill congress="117" number="3007" type="S"></bill>
+  <bill congress="117" number="3008" type="S"></bill>
+  <bill congress="117" number="3009" type="S"></bill>
+  <bill congress="117" number="3010" type="S"></bill>
+  <bill congress="117" number="3110" type="HR"></bill>
+  <bill congress="117" number="3206" type="S"></bill>
+  <bill congress="117" number="3233" type="HR"></bill>
+  <bill congress="117" number="3299" type="S"></bill>
+  <bill congress="117" number="3419" type="HR"></bill>
+  <bill congress="117" number="3743" type="HR"></bill>
+  <bill congress="117" number="3755" type="HR"></bill>
+  <bill congress="117" number="4350" type="HR"></bill>
+  <bill congress="117" number="5323" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 4 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 4</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 5 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 5</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 7 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 7</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 9 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 9</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 10 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 10</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 11 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 11</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 12 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 12</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 13 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 13</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 14 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 14</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 17 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 17</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 27 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 27</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 35 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 35</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 44 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 44</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 93 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 93</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 99 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 99</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 111 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 111</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 122 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 122</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 176 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 176</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 189 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 189</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 241 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 241</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 312 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 312</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 335 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 335</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 345 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 345</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 371 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 371</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 421 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 421</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 461 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 461</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 478 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 478</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 517 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 517</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 522 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 522</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 601 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 601</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 636 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 636</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 671 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 671</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 688 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 688</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 704 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 704</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 814 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 814</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 963 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 963</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 965 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 965</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 989 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 989</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1014 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1014</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1061 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1061</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1097 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1097</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1104 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1104</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1169 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1169</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1216 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1216</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1275 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1275</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1402 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1402</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1425 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1425</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1428 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1428</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1471 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1471</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1486 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1486</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1491 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1491</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1543 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1543</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1657 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1657</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1658 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1658</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1675 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1675</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1775 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1775</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1927 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1927</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 1931 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 1931</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2000 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2000</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2044 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2044</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2093 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2093</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2118 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2118</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2119 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2119</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2129 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2129</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2201 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2201</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2297 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2297</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2311 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2311</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2342 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2342</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2377 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2377</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2401 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2401</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2425 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2425</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2428 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2428</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2429 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2429</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2520 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2520</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2551 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2551</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2599 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2599</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2604 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2604</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2605 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2605</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2610 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2610</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2670 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2670</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2671 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2671</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2747 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2747</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2765 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2765</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2788 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2788</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2789 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2789</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2792 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2792</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2809 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2809</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2868 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2868</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3003 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3003</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3005 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3005</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3006 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3006</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3007 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3007</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3008 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3008</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3009 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3009</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3010 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3010</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3110 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3110</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3206 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3206</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3233 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3233</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 3299 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 3299</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3419 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3419</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3743 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3743</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3755 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3755</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 4350 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 4350</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 5323 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 5323</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 1</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 1</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 2</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 2</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 3</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 3</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 5</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 5</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 7</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 7</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 8</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 8</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 9</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 9</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 12</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 12</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 15</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 15</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 19</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 19</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 22</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 22</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 26</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 26</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 27</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 27</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 29</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 29</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 30</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 30</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 44</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 44</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 45</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 45</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 46</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 46</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 47</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 47</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 49</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 49</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 51</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 51</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 54</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 54</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 56</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 56</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 59</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 59</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 60</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 60</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 62</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 62</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 64</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 64</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 65</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 65</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 68</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 68</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 70</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 70</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 71</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 71</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 77</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 77</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 78</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 78</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 79</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 79</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 82</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 82</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 88</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 88</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 89</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 89</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 90</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 90</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 94</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 94</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 95</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 95</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 96</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 96</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 97</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 97</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 98</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 98</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 99</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 99</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 102</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 102</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 103</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 103</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 104</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 104</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 106</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 106</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 108</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 108</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 109</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 109</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 112</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 112</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 113</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 113</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 114</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 114</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 115</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 115</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 116</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 116</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 117</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 117</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 118</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 118</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 119</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 119</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 120</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 120</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 121</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 121</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 123</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 123</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 125</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 125</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 126</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 126</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 127</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 127</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 128</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 128</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 129</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 129</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 134</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 134</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 135</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 135</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 136</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 136</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 138</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 138</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 139</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 139</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 140</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 140</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 141</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 141</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 142</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 142</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 143</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 143</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 144</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 144</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 145</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 145</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 146</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 146</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 147</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 147</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 148</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 148</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 149</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 149</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 150</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 150</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 151</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 151</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 152</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 152</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 153</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 153</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 155</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 155</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 156</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 156</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 157</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 157</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 158</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 158</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 159</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 159</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 161</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 161</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 162</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 162</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 163</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 163</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 164</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 164</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 165</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 165</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 166</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 166</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 167</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 167</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 168</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 168</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 169</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 169</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 174</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 174</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 175</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 175</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 176</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 176</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 177</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 177</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 179</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 179</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 180</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 180</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Calendar No. 181</title>
+</titleInfo>
+  <identifier type="congressional calendar citation">Senate Calendar No. 181</identifier>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de07" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt7/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>NOTICE OF INTENT TO OBJECT TO PROCEEDING</partName>
+  <partName>RESOLUTIONS AND MOTIONS OVER, UNDER THE RULE</partName>
+  <partName>BILLS AND JOINT RESOLUTIONS READ THE FIRST TIME</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt7</identifier>
+ <identifier type="former granule identifier">sc008</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt7</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt7.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt7.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 7</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      NOTICE OF INTENT TO OBJECT TO PROCEEDING; RESOLUTIONS AND MOTIONS OVER, UNDER THE RULE; BILLS AND JOINT RESOLUTIONS READ THE FIRST TIME</searchTitle>
+  <section>NOTICE OF INTENT TO OBJECT TO PROCEEDING</section>
+  <section>RESOLUTIONS AND MOTIONS OVER, UNDER THE RULE</section>
+  <section>BILLS AND JOINT RESOLUTIONS READ THE FIRST TIME</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt7</accessId>
+  <partNumber>7</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+  <bill congress="117" number="4" type="SRES"></bill>
+  <bill congress="117" number="28" type="SRES"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 4 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 4</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 28 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 28</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de08" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt8/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>SUBJECTS ON THE TABLE</partName>
+  <partName>MOTIONS FOR RECONSIDERATION</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt8</identifier>
+ <identifier type="former granule identifier">sc009</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt8</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt8.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt8.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 8</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      SUBJECTS ON THE TABLE; MOTIONS FOR RECONSIDERATION</searchTitle>
+  <section>SUBJECTS ON THE TABLE</section>
+  <section>MOTIONS FOR RECONSIDERATION</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt8</accessId>
+  <partNumber>8</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+  <bill congress="117" number="4" type="S"></bill>
+  <bill congress="117" number="2747" type="S"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 4 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 4</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2747 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2747</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de09" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt9/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>BILLS IN CONFERENCE</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt9</identifier>
+ <identifier type="former granule identifier">sc010</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt9</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt9.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt9.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 9</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      BILLS IN CONFERENCE</searchTitle>
+  <section>BILLS IN CONFERENCE</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt9</accessId>
+  <partNumber>9</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-sc13de10" xlink:href="https://www.govinfo.gov/metadata/granule/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt10/mods.xml">
+ <titleInfo>
+  <title>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session</title>
+  <partName>STATUS OF APPROPRIATION BILLS, SECOND SESSION, ONE HUNDRED SIXTEENTH CONGRESS</partName>
+</titleInfo>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt10</identifier>
+ <identifier type="former granule identifier">sc011</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CCAL-117scal-2021-12-13/CCAL-117scal-2021-12-13-pt10</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt10.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt10.htm</url>
+</location>
+ <identifier type="preferred citation">Senate Calendars for December 13, 2021 - 117th Congress, 1st Session, Part 10</identifier>
+ <extension>
+  <searchTitle>Senate Calendars for December 13, 2021 - 117th Congress, 1st Session;
+      STATUS OF APPROPRIATION BILLS, SECOND SESSION, ONE HUNDRED SIXTEENTH CONGRESS</searchTitle>
+  <section>STATUS OF APPROPRIATION BILLS, SECOND SESSION, ONE HUNDRED SIXTEENTH CONGRESS</section>
+  <granuleClass>CCAL</granuleClass>
+  <accessId>CCAL-117scal-2021-12-13-pt10</accessId>
+  <partNumber>10</partNumber>
+  <isFallbackTitle>false</isFallbackTitle>
+  <bill congress="117" number="21" type="HR"></bill>
+  <bill congress="117" number="107" type="HJRES"></bill>
+  <bill congress="117" number="110" type="HJRES"></bill>
+  <bill congress="117" number="133" type="HR"></bill>
+  <bill congress="117" number="748" type="HR"></bill>
+  <bill congress="117" number="1520" type="HR"></bill>
+  <bill congress="117" number="2311" type="S"></bill>
+  <bill congress="117" number="2599" type="S"></bill>
+  <bill congress="117" number="2604" type="S"></bill>
+  <bill congress="117" number="2605" type="S"></bill>
+  <bill congress="117" number="3237" type="HR"></bill>
+  <bill congress="117" number="4346" type="HR"></bill>
+  <bill congress="117" number="4373" type="HR"></bill>
+  <bill congress="117" number="4502" type="HR"></bill>
+  <bill congress="117" number="4618" type="S"></bill>
+  <bill congress="117" number="5305" type="HR"></bill>
+  <bill congress="117" number="5323" type="HR"></bill>
+  <bill congress="117" number="5687" type="HR"></bill>
+  <bill congress="117" number="6074" type="HR"></bill>
+  <bill congress="117" number="6119" type="HR"></bill>
+  <bill congress="117" number="6201" type="HR"></bill>
+  <bill congress="117" number="6800" type="HR"></bill>
+  <bill congress="117" number="7027" type="HR"></bill>
+  <bill congress="117" number="7327" type="HR"></bill>
+  <bill congress="117" number="7608" type="HR"></bill>
+  <bill congress="117" number="7617" type="HR"></bill>
+  <bill congress="117" number="8337" type="HR"></bill>
+  <bill congress="117" number="8900" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 21 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 21</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 107 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 107</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 110 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 110</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 133 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 133</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 748 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 748</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1520 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1520</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2311 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2311</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2599 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2599</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2604 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2604</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 2605 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 2605</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3237 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3237</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 4346 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 4346</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 4373 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 4373</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 4502 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 4502</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 4618 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 4618</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 5305 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 5305</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 5323 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 5323</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 5687 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 5687</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 6074 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 6074</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 6119 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 6119</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 6201 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 6201</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 6800 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 6800</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 7027 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 7027</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 7327 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 7327</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 7608 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 7608</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 7617 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 7617</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 8337 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 8337</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 8900 (117th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 8900</identifier>
+  <extension>
+   <congress>117</congress>
+</extension>
+</relatedItem>
+</relatedItem>
+</mods>

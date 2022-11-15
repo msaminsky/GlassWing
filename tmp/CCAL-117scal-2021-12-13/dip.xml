@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:utils="xalan://gov.gpo.fdsys.utils" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:datetime="http://exslt.org/dates-and-times" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd" ID="P0b002ee1b2352039" LABEL="Senate Calendars for December 13, 2021 - 117th Congress, 1st Session" OBJID="CCAL-117scal-2021-12-13">
+<metsHdr CREATEDATE="2021-12-10T05:42:05Z" LASTMODDATE="2021-12-10T05:42:05Z">
+<agent ROLE="CREATOR" TYPE="ORGANIZATION">
+<name>United States Government Publishing Office</name>
+</agent>
+</metsHdr>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de00">
+<mdRef ID="id-sc13de00" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de00']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de01">
+<mdRef ID="id-sc13de01" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de01']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de02">
+<mdRef ID="id-sc13de02" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de02']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de03">
+<mdRef ID="id-sc13de03" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de03']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de04">
+<mdRef ID="id-sc13de04" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de04']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de05">
+<mdRef ID="id-sc13de05" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de05']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de06">
+<mdRef ID="id-sc13de06" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de06']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de07">
+<mdRef ID="id-sc13de07" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de07']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de08">
+<mdRef ID="id-sc13de08" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de08']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de09">
+<mdRef ID="id-sc13de09" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de09']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-sc13de10">
+<mdRef ID="id-sc13de10" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-sc13de10']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<amdSec>
+<digiprovMD ID="provenance-metadata-premis">
+<mdRef MIMETYPE="text/xml" LOCTYPE="URL" xlink:href="file://premis.xml" MDTYPE="PREMIS"/>
+</digiprovMD>
+</amdSec>
+<fileSec><fileGrp USE="text/html"><file ID="FID1" MIMETYPE="text/html" SIZE="8494" DMDID="id-sc13de00">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt0.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt0.htm"/>
+</file>
+<file ID="FID2" MIMETYPE="text/html" SIZE="7454" DMDID="id-sc13de01">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt1.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt1.htm"/>
+</file>
+<file ID="FID3" MIMETYPE="text/html" SIZE="13699" DMDID="id-sc13de02">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt2.htm"/>
+</file>
+<file ID="FID4" MIMETYPE="text/html" SIZE="2251" DMDID="id-sc13de03">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt3.htm"/>
+</file>
+<file ID="FID5" MIMETYPE="text/html" SIZE="1604" DMDID="id-sc13de04">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt4.htm"/>
+</file>
+<file ID="FID6" MIMETYPE="text/html" SIZE="7924" DMDID="id-sc13de05">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt5.htm"/>
+</file>
+<file ID="FID7" MIMETYPE="text/html" SIZE="55673" DMDID="id-sc13de06">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt6.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt6.htm"/>
+</file>
+<file ID="FID8" MIMETYPE="text/html" SIZE="2602" DMDID="id-sc13de07">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt7.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt7.htm"/>
+</file>
+<file ID="FID9" MIMETYPE="text/html" SIZE="2432" DMDID="id-sc13de08">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt8.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt8.htm"/>
+</file>
+<file ID="FID10" MIMETYPE="text/html" SIZE="1158" DMDID="id-sc13de09">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt9.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt9.htm"/>
+</file>
+<file ID="FID11" MIMETYPE="text/html" SIZE="23235" DMDID="id-sc13de10">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CCAL-117scal-2021-12-13-pt10.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/html/CCAL-117scal-2021-12-13-pt10.htm"/>
+</file></fileGrp><fileGrp USE="application/pdf"><file ID="FID12" MIMETYPE="application/pdf" SIZE="140255" DMDID="id-sc13de03">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt3.pdf"/>
+</file>
+<file ID="FID13" MIMETYPE="application/pdf" SIZE="152196" DMDID="id-sc13de05">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt5.pdf"/>
+</file>
+<file ID="FID14" MIMETYPE="application/pdf" SIZE="152086" DMDID="id-sc13de07">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt7.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt7.pdf"/>
+</file>
+<file ID="FID15" MIMETYPE="application/pdf" SIZE="135399" DMDID="id-sc13de09">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt9.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt9.pdf"/>
+</file>
+<file ID="FID16" MIMETYPE="application/pdf" SIZE="161062" DMDID="id-sc13de02">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt2.pdf"/>
+</file>
+<file ID="FID17" MIMETYPE="application/pdf" SIZE="172897" DMDID="id-sc13de01">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt1.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt1.pdf"/>
+</file>
+<file ID="FID18" MIMETYPE="application/pdf" SIZE="171908" DMDID="id-sc13de06">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt6.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt6.pdf"/>
+</file>
+<file ID="FID19" MIMETYPE="application/pdf" SIZE="157404" DMDID="id-sc13de10">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt10.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt10.pdf"/>
+</file>
+<file ID="FID20" MIMETYPE="application/pdf" SIZE="295538" DMDID="id-sc13de00">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt0.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt0.pdf"/>
+</file>
+<file ID="FID21" MIMETYPE="application/pdf" SIZE="139809" DMDID="id-sc13de04">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt4.pdf"/>
+</file>
+<file ID="FID22" MIMETYPE="application/pdf" SIZE="135707" DMDID="id-sc13de08">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13-pt8.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13-pt8.pdf"/>
+</file>
+<file ID="FID23" MIMETYPE="application/pdf" SIZE="826976">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CCAL-117scal-2021-12-13.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.govinfo.gov/content/pkg/CCAL-117scal-2021-12-13/pdf/CCAL-117scal-2021-12-13.pdf"/>
+</file></fileGrp></fileSec>
+<structMap>
+<div>
+<div DMDID="id-sc13de00" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID1"/>
+</div>
+<div DMDID="id-sc13de01" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID2"/>
+</div>
+<div DMDID="id-sc13de02" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID3"/>
+</div>
+<div DMDID="id-sc13de03" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID4"/>
+</div>
+<div DMDID="id-sc13de04" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID5"/>
+</div>
+<div DMDID="id-sc13de05" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID6"/>
+</div>
+<div DMDID="id-sc13de06" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID7"/>
+</div>
+<div DMDID="id-sc13de07" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID8"/>
+</div>
+<div DMDID="id-sc13de08" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID9"/>
+</div>
+<div DMDID="id-sc13de09" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID10"/>
+</div>
+<div DMDID="id-sc13de10" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID11"/>
+</div>
+<div DMDID="id-sc13de03" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID12"/>
+</div>
+<div DMDID="id-sc13de05" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID13"/>
+</div>
+<div DMDID="id-sc13de07" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID14"/>
+</div>
+<div DMDID="id-sc13de09" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID15"/>
+</div>
+<div DMDID="id-sc13de02" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID16"/>
+</div>
+<div DMDID="id-sc13de01" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID17"/>
+</div>
+<div DMDID="id-sc13de06" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID18"/>
+</div>
+<div DMDID="id-sc13de10" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID19"/>
+</div>
+<div DMDID="id-sc13de00" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID20"/>
+</div>
+<div DMDID="id-sc13de04" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID21"/>
+</div>
+<div DMDID="id-sc13de08" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID22"/>
+</div>
+<div ADMID="provenance-metadata-premis">
+<fptr FILEID="FID23"/>
+</div>
+</div>
+</structMap>
+</mets>
