@@ -25,6 +25,25 @@ import "phoenix_html"
 import {Socket} from "phoenix"
 import {LiveSocket} from "phoenix_live_view"
 import topbar from "../vendor/topbar"
+import mapboxgl from 'mapbox-gl'
+
+let Hooks = {}
+Hooks.MainMap = {
+  initMap() {
+    mapboxgl.accessToken = 'pk.eyJ1IjoibXNhbWluc2t5IiwiYSI6ImNsMHg5cm4xdTA5aHczaW14OHp5bXp5ZHgifQ.-QZwwu0lMBOwD_2oax8jwA';
+
+    const map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/outdoors-v11',
+      center: [-122.4376, 37.7577],
+      zoom: 8
+    });
+  },
+
+  mount() {
+    this.initMap();
+  }
+}
 
 let csrfToken = document.querySelector("meta[name='csrf-token']").getAttribute("content")
 let liveSocket = new LiveSocket("/live", Socket, {params: {_csrf_token: csrfToken}})

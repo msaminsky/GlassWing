@@ -16,8 +16,11 @@ defmodule GlasswingWeb.Router do
 
   scope "/", GlasswingWeb do
     pipe_through :browser
+    live "/test", MapLive, :index
 
     get "/", PageController, :index
+    get "/map", MapController, :index
+    get "/map/:view", MapController, :show
   end
 
   # Other scopes may use custom stacks.
